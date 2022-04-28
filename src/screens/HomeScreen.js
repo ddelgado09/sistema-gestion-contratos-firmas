@@ -8,7 +8,7 @@ export default function HomeScreen({ navigation }) {
 
   return (
 	<View>
-		<Text style={styles.title}>Plantillas Contratos</Text>
+		<Text style={styles.title}>Contratos a Firmar</Text>
 		<Text>Estamos en Home Screen</Text>
 		<Text>Estamos en Home Screen</Text>
 		<Text>Estamos en Home Screen</Text>
